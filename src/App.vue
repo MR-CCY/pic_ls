@@ -15,6 +15,7 @@ export default {
   data(){
     return{
       errorImg:'',
+      url:'',
       photo:[
         {
           url:"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1587143659339&di=6db09620fc85d041f0ef1819c8ef8f6a&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Ff9dcd100baa1cd11d1185816ba12c8fcc3ce2d5d.jpg",
