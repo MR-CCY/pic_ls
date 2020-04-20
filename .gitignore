@@ -26,3 +26,4 @@ src/views/About.vue
 src/views/Home.vue
 src/main.js
 src/main.js
+node_modules
